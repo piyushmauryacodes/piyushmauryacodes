@@ -2,8 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=piyushmauryacodes&theme=radical)](https://git.io/streak-stats)        
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=piyushmauryacodes&theme=radical" alt="GitHub Streak" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
