@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm PIYUSH MAURYA</h1>
-<h3 align="left">A passionate frontend developer from India</h3>
+<h3 align="left">A passionate Full Stack Developer from India</h3>
 
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=piyushmauryacodes&theme=highcontrast" alt="GitHub Streak" /></a>
